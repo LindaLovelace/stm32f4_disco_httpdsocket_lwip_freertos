@@ -75,6 +75,7 @@ void ToggleLed4(void * pvParameters);
   * @retval None
   */
 
+
 void init_USART6(uint32_t baudrate);
 
 int main(void)
